@@ -121,10 +121,10 @@ NoteEditor.updateNote()函数中修改
 #### 2.改变背景色
 可以根据自己的喜好，设置不同的背景颜色
 
-
 ![](https://i.loli.net/2018/06/05/5b1569ee93370.png)
 
 改变后的界面
+
 ![](https://i.loli.net/2018/06/05/5b156a01c604b.png)
 
 
